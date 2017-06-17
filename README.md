@@ -1,5 +1,5 @@
 # TicketSystem
-## Movie Tickets System for Grade 11 (ICS3U) Culminating Project
+## Movie Tickets System
 
 Run src\TicketSystem.java to start program
 
